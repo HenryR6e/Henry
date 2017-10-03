@@ -1,0 +1,87 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.henry.henry.Fruits">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Mangoes"
+        android:textColor="#ef1455"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:padding="10dp"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/blurrypeaches"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="120dp"
+        android:text="@string/descriptionmango"
+        android:textSize="18dp"
+        android:textColor="#970e36"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Grapes"
+        android:layout_marginTop="200dp"
+        android:textColor="#ef1455"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:padding="10dp"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="250dp"
+        android:padding="8sp"
+        android:src="@drawable/grapes"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_marginLeft="120dp"
+        android:text="/@ 1500ugx"
+        android:textColor="#15ff00"
+        android:textSize="15dp"
+        android:textStyle="bold"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="120dp"
+        android:text="@string/descriptiongrape"
+        android:textSize="18dp"
+        android:textColor="#970e36"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="90dp"
+        android:text="/@ 500ugx"
+        android:textColor="#15ff00"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+
+</FrameLayout>

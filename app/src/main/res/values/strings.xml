@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Henry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">We have a varirty of Fruits, and below are a few of what we have...</string>
+    <string name="title2">We have a varirty of Foods, and below are a few of what we have...</string>
+
+    <string name="descriptionmango">Come get all sorts of mangoes at the best prices</string>
+    <string name="descriptionmango2">Have you ever come across cross breed western mangoes,
+        Yeah I have said it, Western magoes that are juicy like the morning dew, so fresh for life
+        Ohh La La Come get all sorts of mangoes at the best prices</string>
+
+    <string name="descriptiongrape">All sorts of grapes are available at cheap prices. Black grapes too</string>
+    <string name="descriptiongrape2">Pinky, Blacky, Redy, and more. Do not forget to taste these
+        before Jesus comes back
+        All sorts of grapes are available at cheap prices. Black grapes too</string>
+
+    <string name="descriptionmacrons">Come get all sorts of macrons at the best prices from the best chefs</string>
+    <string name="descriptionmacrons2">Come get all sorts of macrons at the best prices from the best chefs.
+    With special ingredients from Italy. Spiced chicken soup being our best at the moment, leaves our customers yarning for
+    more</string>
+
+    <string name="descriptionspice">All spiced foods are available at relatively cheap prices. Taste Once and you will call your friends</string>
+    <string name="descriptionspice2">All spiced foods are available at relatively cheap prices. Taste Once and you will call your friends
+    Great Chefs from France, come with great skills to bring you one of the most exciting and incredible
+    fast easy food at your finger tips at cheap prices</string>
+</resources>
